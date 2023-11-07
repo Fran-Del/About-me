@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Fran-Del
 - 👀 I’m interested in IT and its applications in the businesses
-- 🌱 I’m currently learning how to build web APIs with FAST API
+- 🌱 I’m currently learning how to build web APPs with Django
 - 💞️ I would love to collaborate or contribute to other business related problems
 - 📫 I'm active on twitter with the handle @frandel_T
 
